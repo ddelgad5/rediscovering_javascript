@@ -1,5 +1,5 @@
 //Can Vote Exercise
-use strict;
+'use strict';
 
 const canVote = function( age ) {
  if (age > 27) return "please vote";
